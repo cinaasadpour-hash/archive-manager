@@ -16,7 +16,7 @@
 
 ### شروع کار
 
-فایل یا پوشه را از انتخابگر اندروید باز کنید و مجوز پوشه مقصد را بدهید. برای استخراج، مقصد را انتخاب کنید و تا پایان عملیات منتظر بمانید.
+دسترسی مدیریت فایل‌ها را در تنظیمات اندروید فعال کنید. فایل‌ها را مرور کنید، آرشیو را باز کنید و استخراج یا فشرده‌سازی را انجام دهید. پوشه‌های محافظت‌شده اندروید همچنان محدودند.
 
 ### تبلیغات
 
@@ -34,7 +34,7 @@ This app contains advertising.
 
 ### Getting started
 
-Open a file or folder using Android’s picker and grant access to the destination folder. Choose an extraction destination and wait for completion.
+Enable file management access in Android settings, browse files, then open an archive or create a new one. Protected Android folders remain restricted.
 
 ### Advertising
 
@@ -42,7 +42,7 @@ Native banner in Recents and Settings, outside file operations. An unavailable a
 
 ## Download and updates | دریافت و به‌روزرسانی
 
-Android APK, version **1.0.2**. Package: `com.sinatools.archiver`.
+Android APK, version **1.0.3**. Package: `com.sinatools.archiver`.
 For updates, install over the existing app to preserve its local data. Do not uninstall first.
 
 برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
