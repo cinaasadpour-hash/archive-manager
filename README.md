@@ -50,3 +50,26 @@ For updates, install over the existing app to preserve its local data. Do not un
 [Privacy / حریم خصوصی](PRIVACY.md)
 
 This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-browse.png" width="240" alt="Archive Manager en 01-browse" />
+<img src="screenshots/en/02-archives.png" width="240" alt="Archive Manager en 02-archives" />
+<img src="screenshots/en/03-extract-options.png" width="240" alt="Archive Manager en 03-extract-options" />
+<img src="screenshots/en/05-archive-preview.png" width="240" alt="Archive Manager en 05-archive-preview" />
+<img src="screenshots/en/06-sort-options.png" width="240" alt="Archive Manager en 06-sort-options" />
+
+### فارسی
+
+<img src="screenshots/fa/01-browse.png" width="240" alt="Archive Manager fa 01-browse" />
+<img src="screenshots/fa/02-archives.png" width="240" alt="Archive Manager fa 02-archives" />
+<img src="screenshots/fa/03-extract-options.png" width="240" alt="Archive Manager fa 03-extract-options" />
+<img src="screenshots/fa/05-archive-preview.png" width="240" alt="Archive Manager fa 05-archive-preview" />
+<img src="screenshots/fa/06-sort-options.png" width="240" alt="Archive Manager fa 06-sort-options" />
+
